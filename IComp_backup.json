@@ -1,0 +1,1147 @@
+[
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s   "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Aluminum NEA(CODATA) "
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Al"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": ""
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    26.98154067993164,
+                    28.299999237060547,
+                    24.200000762939453,
+                    9.993000030517578,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    3,
+                    13,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Al",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "aluminum_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Carbon (graphite)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "C "
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "s:C0:Gr:dnp:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    12.0108003616333,
+                    5.739999771118164,
+                    8.682000160217285,
+                    4.584400177001953,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    4,
+                    6,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "C",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "carbon_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Calcium NEA(CODATA)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Ca"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "---"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    40.077999114990234,
+                    41.59000015258789,
+                    25.929000854492188,
+                    25.860000610351562,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    2,
+                    20,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Ca",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "calcium_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "g   "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Chlorine NEA(CODATA)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Cl"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "---"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    35.452999114990234,
+                    111.54049682617188,
+                    16.97450065612793,
+                    12395,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    -1,
+                    17,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Cl",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "chlorine_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Iron"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Fe"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "s:Fe0:Fe:dnp:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    55.845001220703125,
+                    27.280000686645508,
+                    24.961000442504883,
+                    7.0920000076293945,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    2,
+                    26,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Fe",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "iron_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "g   "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Hydrogen"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "H"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "g:H0:H2:enp:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    1.007949948310852,
+                    65.33999633789062,
+                    14.409000396728516,
+                    12395,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    1,
+                    1,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "H",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "h",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "hydrogen_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Potassium NEA(CODATA)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "K"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "---"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    39.09830093383789,
+                    64.67999267578125,
+                    29.600000381469727,
+                    45.4630012512207,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    1,
+                    19,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "K",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "potassium_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Magnesium NEA(CODATA)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Mg"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "---"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    24.30500030517578,
+                    32.66999816894531,
+                    24.868999481201172,
+                    13.996000289916992,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    2,
+                    12,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Mg",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "magnesium_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Sodium NEA(CODATA)"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Na"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "---"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    22.98979949951172,
+                    51.29999923706055,
+                    28.229999542236328,
+                    23.799999237060547,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    1,
+                    11,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Na",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "sodium_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "g   "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Oxygen"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "O"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "g:O0:O2:enp:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    15.99940013885498,
+                    102.56900024414062,
+                    14.66100025177002,
+                    12395,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    -2,
+                    8,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "O",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "o",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "oxygen_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "cr  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Lead"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Pb"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "s:PB:Pb_cr:cd:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    207.1999969482422,
+                    64.80000305175781,
+                    26.649999618530273,
+                    18.18000030517578,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    2,
+                    82,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Pb",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "lead_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "s  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Sulfur"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "S"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "s:S0:Sulfur:dnp:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    32.06700134277344,
+                    31.79800033569336,
+                    22.76300048828125,
+                    15.510000228881836,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    6,
+                    16,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "S",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "sulfur_m23_",
+                "fx": 2
+            }
+        ]
+    },
+    {
+        "dod": [
+            {
+                "dM": 1,
+                "dN": 1,
+                "dot": 4,
+                "dyn": false,
+                "id": 503,
+                "label": "StdSt",
+                "val": [
+                    "cr  "
+                ]
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 504,
+                "label": "ICname",
+                "val": "Zinc"
+            },
+            {
+                "dM": 72,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 505,
+                "label": "ICform",
+                "val": "Zn"
+            },
+            {
+                "dM": 32,
+                "dN": 1,
+                "dot": 0,
+                "dyn": false,
+                "id": 506,
+                "label": "IC_DC",
+                "val": "s:ZN:Zn_cr:cd:"
+            },
+            {
+                "dM": 6,
+                "dN": 1,
+                "dot": -5,
+                "dyn": false,
+                "id": 507,
+                "label": "icflo",
+                "val": [
+                    65.37999725341797,
+                    41.630001068115234,
+                    25.389999389648438,
+                    9.156999588012695,
+                    null,
+                    1
+                ]
+            },
+            {
+                "dM": 3,
+                "dN": 1,
+                "dot": -1,
+                "dyn": false,
+                "id": 508,
+                "label": "icint",
+                "val": [
+                    2,
+                    30,
+                    null
+                ]
+            }
+        ],
+        "key": [
+            {
+                "fl": 6,
+                "fv": "Zn",
+                "fx": 0
+            },
+            {
+                "fl": 4,
+                "fv": "e",
+                "fx": 1
+            },
+            {
+                "fl": 22,
+                "fv": "zinc_m23_",
+                "fx": 2
+            }
+        ]
+    }
+]
+
